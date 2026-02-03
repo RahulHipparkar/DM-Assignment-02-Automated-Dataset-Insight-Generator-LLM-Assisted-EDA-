@@ -1,0 +1,18 @@
+# Core data + stats
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+
+# Plotting
+matplotlib>=3.7
+seaborn>=0.13
+
+# Gemini (Google GenAI SDK)
+google-genai>=0.3.0
+
+# Report / formatting
+jinja2>=3.1
+tabulate>=0.9.0
+
+# Optional: if you load seaborn demo datasets in dev
+scikit-learn>=1.3
