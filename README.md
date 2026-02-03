@@ -22,3 +22,7 @@ gemini-flash-latest
 - requirements.txt : Manage project dependencies
 - readme.md: To document team roles, project structure
 
+# Video:
+
+Link: https://drive.google.com/file/d/1u601Rconm3TtpBX9wwdEthnIN4olTsyn/view?usp=drive_link
+
