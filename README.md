@@ -9,12 +9,16 @@ You have full access to GenAI tools, including cloud-based models (e.g., ChatGPT
 Team Members: Rahul Hipparkar, Himanshu Jain
 
 # Datasets used
-Development dataset : Tips
-Inference dataset : Wine quality
+- Development dataset : Tips
+- Inference dataset : Wine quality
 
 # Large Language Model used:
-Gemini
+gemini-flash-latest
 
-# Repository structure
-logs folder - Contain logs for gen AI usage
-output folder - Contain plots, csvs 
+
+# Repository structure:
+- Logs: contain logs for gemini usage
+- Output : contain plots, csv files, report (insights) for both development dataset
+- requirements.txt : Manage project dependencies
+- readme.md: To document team roles, project structure
+
