@@ -12,7 +12,7 @@ Team Members: Rahul Hipparkar, Himanshu Jain
 - Development dataset : Tips
 - Inference dataset : Wine quality
 
-# Large Language Model used:
+# Large Language Model used
 gemini-flash-latest
 
 
