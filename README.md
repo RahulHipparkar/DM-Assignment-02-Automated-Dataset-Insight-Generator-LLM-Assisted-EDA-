@@ -8,3 +8,13 @@ You have full access to GenAI tools, including cloud-based models (e.g., ChatGPT
 # Team Overview
 Team Members: Rahul Hipparkar, Himanshu Jain
 
+# Datasets used
+Development dataset : Tips
+Inference dataset : Wine quality
+
+# Large Language Model used:
+Gemini
+
+# Repository structure
+logs folder - Contain logs for gen AI usage
+output folder - Contain plots, csvs 
